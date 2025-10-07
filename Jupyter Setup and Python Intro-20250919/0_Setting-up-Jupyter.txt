@@ -1,0 +1,9 @@
+
+Installing Jupyter Notebook Using Anaconda
+
+1. Download Anaconda: Visit https://www.anaconda.com/download (you can click "Skip Registration") and download the installer for your operating system.
+2. Install Anaconda: Follow the installation instructions provided on the Anaconda website.
+3. Launch Jupyter Notebook: After installation, open Anaconda Navigator. Look for "Jupyter Notebook" and click on "Launch." This will open Jupyter Notebook in a browser window and a terminal window (please do not close the terminal window).
+4. Open the Notebooks Provided: Once Jupyter Notebook is running, you can open the notebooks in the "Python Intro" folder on Moodle (Week 1).
+
+If you have technical issues, please see me before the tutorial session, and I will try to help you fix them.
