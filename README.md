@@ -19,4 +19,5 @@ This repository contains teaching notebooks and exercises for the course "Econom
 
 Contact
 For questions, visit [my personal website](https://giacomomaggiore.com) 
+
 For academic details, visit [the professor's website](https://www.verginer.eu/)
